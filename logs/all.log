@@ -1,0 +1,1092 @@
+2023-02-25 23:34:59:3459 [35mhttp[39m: [35mGET / 200 27 - 7.746 ms[39m
+[35m[39m
+2023-02-25 23:35:13:3513 [35mhttp[39m: [35mGET /main-board - - - - ms[39m
+[35m[39m
+2023-02-25 23:35:19:3519 [35mhttp[39m: [35mGET /main-board/ - - - - ms[39m
+[35m[39m
+2023-02-25 23:36:14:3614 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:36:41:3641 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:36:48:3648 [35mhttp[39m: [35mGET /main-board/test - - - - ms[39m
+[35m[39m
+2023-02-25 23:39:10:3910 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:40:43:4043 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:40:50:4050 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:41:07:417 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:42:19:4219 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:42:50:4250 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:42:54:4254 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:43:17:4317 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:43:25:4325 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:43:32:4332 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:44:57:4457 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:45:22:4522 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:45:28:4528 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:45:32:4532 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:45:33:4533 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:46:42:4642 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:46:47:4647 [35mhttp[39m: [35mGET / 200 16 - 4.114 ms[39m
+[35m[39m
+2023-02-25 23:47:13:4713 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:47:25:4725 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:47:32:4732 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:47:39:4739 [35mhttp[39m: [35mGET /main-board/ 404 150 - 3.175 ms[39m
+[35m[39m
+2023-02-25 23:47:47:4747 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:47:48:4748 [35mhttp[39m: [35mGET /main-board/ 200 13 - 2.792 ms[39m
+[35m[39m
+2023-02-25 23:47:58:4758 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:49:40:4940 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:49:48:4948 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:50:03:503 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:50:24:5024 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:50:32:5032 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:51:13:5113 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:51:39:5139 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:51:50:5150 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:52:56:5256 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:52:57:5257 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:53:01:531 [35mhttp[39m: [35mGET /main-board/asda 404 154 - 5.609 ms[39m
+[35m[39m
+2023-02-25 23:54:16:5416 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:54:25:5425 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:54:26:5426 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:58:40:5840 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:59:04:594 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-25 23:59:47:5947 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 00:00:04:04 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 00:07:00:70 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 00:07:02:72 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 00:07:31:731 [35mhttp[39m: [35mGET /main-board/asda 404 154 - 4.259 ms[39m
+[35m[39m
+2023-02-26 00:07:35:735 [35mhttp[39m: [35mGET /main-board/ 200 13 - 2.207 ms[39m
+[35m[39m
+2023-02-26 00:09:26:926 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 00:09:33:933 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 03:07:27:727 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 03:07:30:730 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 03:08:08:88 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 03:08:10:810 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 03:11:28:1128 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 03:11:31:1131 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:45:43:4543 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:45:46:4546 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:47:52:4752 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:47:55:4755 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:48:43:4843 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:48:45:4845 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:49:09:499 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:49:11:4911 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:49:42:4942 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:49:44:4944 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:50:20:5020 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:50:22:5022 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:50:25:5025 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:50:28:5028 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:51:15:5115 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:51:17:5117 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:52:03:523 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:52:05:525 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 10:59:21:5921 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 10:59:24:5924 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:01:59:159 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:02:06:26 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:02:17:217 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:02:20:220 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:03:44:344 [35mhttp[39m: [35mPOST /main-board/ 400 1136 - 22.017 ms[39m
+[35m[39m
+2023-02-26 11:04:55:455 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 6.139 ms[39m
+[35m[39m
+2023-02-26 11:05:07:57 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:05:10:510 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:06:05:65 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 18.554 ms[39m
+[35m[39m
+2023-02-26 11:06:15:615 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:06:18:618 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:06:26:626 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 17.780 ms[39m
+[35m[39m
+2023-02-26 11:06:47:647 [35mhttp[39m: [35mGET /main-board/ 200 13 - 1.573 ms[39m
+[35m[39m
+2023-02-26 11:08:02:82 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:08:04:84 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:08:09:89 [37mdebug[39m: [37m{ value: '2648' }[39m
+2023-02-26 11:08:09:89 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 15.268 ms[39m
+[35m[39m
+2023-02-26 11:08:53:853 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:08:55:855 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:09:00:90 [37mdebug[39m: [37m{ value: '2648' }[39m
+2023-02-26 11:09:00:90 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 14.930 ms[39m
+[35m[39m
+2023-02-26 11:09:50:950 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:09:52:952 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:10:05:105 [35mhttp[39m: [35mPOST /main-board/ 500 29 - 25.299 ms[39m
+[35m[39m
+2023-02-26 11:10:20:1020 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:10:23:1023 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:10:28:1028 [31merror[39m: [31mParameter "obj" to Document() must be an object, got 2648[39m
+2023-02-26 11:10:28:1028 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 20.240 ms[39m
+[35m[39m
+2023-02-26 11:11:52:1152 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:11:55:1155 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:12:07:127 [31merror[39m: [31mParameter "obj" to Document() must be an object, got 2648[39m
+2023-02-26 11:12:07:127 [35mhttp[39m: [35mPOST /main-board/ 500 102 - 21.041 ms[39m
+[35m[39m
+2023-02-26 11:17:39:1739 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:17:42:1742 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:19:24:1924 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:19:26:1926 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:19:28:1928 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:19:56:1956 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:19:59:1959 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:20:01:201 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 18.343 ms[39m
+[35m[39m
+2023-02-26 11:20:51:2051 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 2.141 ms[39m
+[35m[39m
+2023-02-26 11:20:53:2053 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 2.858 ms[39m
+[35m[39m
+2023-02-26 11:20:53:2053 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 1.288 ms[39m
+[35m[39m
+2023-02-26 11:20:54:2054 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 1.590 ms[39m
+[35m[39m
+2023-02-26 11:20:55:2055 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 4.019 ms[39m
+[35m[39m
+2023-02-26 11:21:18:2118 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:21:21:2121 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:22:37:2237 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:22:39:2239 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:23:49:2349 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:23:52:2352 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:24:01:241 [35mhttp[39m: [35mGET /main-board/ 200 846 - 286.226 ms[39m
+[35m[39m
+2023-02-26 11:24:37:2437 [35mhttp[39m: [35mPOST /main-board/ 200 78 - 7.306 ms[39m
+[35m[39m
+2023-02-26 11:24:42:2442 [35mhttp[39m: [35mGET /main-board/ 200 982 - 266.110 ms[39m
+[35m[39m
+2023-02-26 11:27:55:2755 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:27:58:2758 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:27:59:2759 [35mhttp[39m: [35mGET /main-board/ 200 982 - 1965.532 ms[39m
+[35m[39m
+2023-02-26 11:28:04:284 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 2.183 ms[39m
+[35m[39m
+2023-02-26 11:28:57:2857 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:29:00:290 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:29:52:2952 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:29:54:2954 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:30:03:303 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:30:05:305 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:30:21:3021 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:30:23:3023 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:30:27:3027 [35mhttp[39m: [35mGET /main-board/ 200 982 - 301.043 ms[39m
+[35m[39m
+2023-02-26 11:30:32:3032 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 7.951 ms[39m
+[35m[39m
+2023-02-26 11:32:09:329 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:32:11:3211 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:32:56:3256 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:32:59:3259 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:35:13:3513 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:35:16:3516 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:35:21:3521 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 9.434 ms[39m
+[35m[39m
+2023-02-26 11:36:19:3619 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:36:21:3621 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:36:26:3626 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:36:28:3628 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:36:30:3630 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:36:50:3650 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 29.380 ms[39m
+[35m[39m
+2023-02-26 11:37:27:3727 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:37:29:3729 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:37:32:3732 [35mhttp[39m: [35mPOST /main-board/ 200 95 - 19.250 ms[39m
+[35m[39m
+2023-02-26 11:37:43:3743 [35mhttp[39m: [35mPOST /main-board/ 400 1132 - 9.159 ms[39m
+[35m[39m
+2023-02-26 11:37:55:3755 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:37:57:3757 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:38:17:3817 [35mhttp[39m: [35mPOST /main-board/ 400 1132 - 21.371 ms[39m
+[35m[39m
+2023-02-26 11:38:24:3824 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:38:26:3826 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:39:54:3954 [35mhttp[39m: [35mPOST /main-board/ 400 1131 - 25.279 ms[39m
+[35m[39m
+2023-02-26 11:40:24:4024 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:40:27:4027 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:40:29:4029 [35mhttp[39m: [35mPOST /main-board/ 400 1131 - 23.432 ms[39m
+[35m[39m
+2023-02-26 11:40:36:4036 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:40:38:4038 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:41:56:4156 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:41:58:4158 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:42:01:421 [35mhttp[39m: [35mPOST /main-board/ 400 1131 - 22.482 ms[39m
+[35m[39m
+2023-02-26 11:42:29:4229 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:42:32:4232 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:42:34:4234 [35mhttp[39m: [35mPOST /main-board/ 400 1131 - 21.915 ms[39m
+[35m[39m
+2023-02-26 11:43:15:4315 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:43:17:4317 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:43:41:4341 [35mhttp[39m: [35mPOST /main-board/ 400 1132 - 23.409 ms[39m
+[35m[39m
+2023-02-26 11:44:22:4422 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:44:25:4425 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:44:49:4449 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:44:51:4451 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:45:07:457 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:45:10:4510 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:45:28:4528 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:45:31:4531 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:45:41:4541 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:45:44:4544 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:45:47:4547 [35mhttp[39m: [35mPOST /main-board/ 200 45 - 6.516 ms[39m
+[35m[39m
+2023-02-26 11:45:57:4557 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:45:59:4559 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:46:02:462 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 10.624 ms[39m
+[35m[39m
+2023-02-26 11:49:15:4915 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:49:17:4917 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:49:21:4921 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:49:24:4924 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:49:25:4925 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 10.263 ms[39m
+[35m[39m
+2023-02-26 11:49:29:4929 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:49:32:4932 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:51:31:5131 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:51:34:5134 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:51:35:5135 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 5.538 ms[39m
+[35m[39m
+2023-02-26 11:52:07:527 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:52:09:529 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:52:10:5210 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:52:10:5210 [35mhttp[39m: [35mPOST /main-board/ 200 63 - 14.555 ms[39m
+[35m[39m
+2023-02-26 11:53:01:531 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:53:03:533 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:53:04:534 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:04:534 [35mhttp[39m: [35mPOST /main-board/ 500 104 - 11.054 ms[39m
+[35m[39m
+2023-02-26 11:53:21:5321 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:53:23:5323 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:53:37:5337 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:37:5337 [35mhttp[39m: [35mPOST /main-board/ 500 104 - 12.058 ms[39m
+[35m[39m
+2023-02-26 11:53:44:5344 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:44:5344 [35mhttp[39m: [35mPOST /main-board/ 500 104 - 3.270 ms[39m
+[35m[39m
+2023-02-26 11:54:17:5417 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:54:20:5420 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:54:22:5422 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:54:22:5422 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 4.930 ms[39m
+[35m[39m
+2023-02-26 11:54:57:5457 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:55:00:550 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:55:17:5517 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:55:19:5519 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:55:30:5530 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:55:33:5533 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:55:33:5533 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 5.524 ms[39m
+[35m[39m
+2023-02-26 11:55:38:5538 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:55:42:5542 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:55:42:5542 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 2.724 ms[39m
+[35m[39m
+2023-02-26 11:56:01:561 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:56:04:564 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:56:05:565 [37mdebug[39m: [37m[37mdebug[37m[39m
+2023-02-26 11:56:05:565 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:05:565 [35mhttp[39m: [35mPOST /main-board/ 500 102 - 5.097 ms[39m
+[35m[39m
+2023-02-26 11:56:12:5612 [37mdebug[39m: [37m[37mdebug[37m[39m
+2023-02-26 11:56:12:5612 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:12:5612 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 2.192 ms[39m
+[35m[39m
+2023-02-26 11:56:48:5648 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:56:51:5651 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:56:51:5651 [37mdebug[39m: [37m[37mdebug[37m[39m
+2023-02-26 11:56:51:5651 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:51:5651 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 7.153 ms[39m
+[35m[39m
+2023-02-26 11:57:19:5719 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:57:22:5722 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:57:28:5728 [37mdebug[39m: [37m<ref *2> IncomingMessage {[39m
+[37m  _readableState: ReadableState {[39m
+[37m    objectMode: false,[39m
+[37m    highWaterMark: 16384,[39m
+[37m    buffer: BufferList { head: null, tail: null, length: 0 },[39m
+[37m    length: 0,[39m
+[37m    pipes: [],[39m
+[37m    flowing: null,[39m
+[37m    ended: false,[39m
+[37m    endEmitted: false,[39m
+[37m    reading: false,[39m
+[37m    constructed: true,[39m
+[37m    sync: true,[39m
+[37m    needReadable: false,[39m
+[37m    emittedReadable: false,[39m
+[37m    readableListening: false,[39m
+[37m    resumeScheduled: false,[39m
+[37m    errorEmitted: false,[39m
+[37m    emitClose: true,[39m
+[37m    autoDestroy: true,[39m
+[37m    destroyed: false,[39m
+[37m    errored: null,[39m
+[37m    closed: false,[39m
+[37m    closeEmitted: false,[39m
+[37m    defaultEncoding: 'utf8',[39m
+[37m    awaitDrainWriters: null,[39m
+[37m    multiAwaitDrain: false,[39m
+[37m    readingMore: true,[39m
+[37m    dataEmitted: false,[39m
+[37m    decoder: null,[39m
+[37m    encoding: null,[39m
+[37m    [Symbol(kPaused)]: null[39m
+[37m  },[39m
+[37m  _events: [Object: null prototype] { end: [Function: clearRequestTimeout] },[39m
+[37m  _eventsCount: 1,[39m
+[37m  _maxListeners: undefined,[39m
+[37m  socket: <ref *1> Socket {[39m
+[37m    connecting: false,[39m
+[37m    _hadError: false,[39m
+[37m    _parent: null,[39m
+[37m    _host: null,[39m
+[37m    _readableState: ReadableState {[39m
+[37m      objectMode: false,[39m
+[37m      highWaterMark: 16384,[39m
+[37m      buffer: BufferList { head: null, tail: null, length: 0 },[39m
+[37m      length: 0,[39m
+[37m      pipes: [],[39m
+[37m      flowing: true,[39m
+[37m      ended: false,[39m
+[37m      endEmitted: false,[39m
+[37m      reading: true,[39m
+[37m      constructed: true,[39m
+[37m      sync: false,[39m
+[37m      needReadable: true,[39m
+[37m      emittedReadable: false,[39m
+[37m      readableListening: false,[39m
+[37m      resumeScheduled: false,[39m
+[37m      errorEmitted: false,[39m
+[37m      emitClose: false,[39m
+[37m      autoDestroy: true,[39m
+[37m      destroyed: false,[39m
+[37m      errored: null,[39m
+[37m      closed: false,[39m
+[37m      closeEmitted: false,[39m
+[37m      defaultEncoding: 'utf8',[39m
+[37m      awaitDrainWriters: null,[39m
+[37m      multiAwaitDrain: false,[39m
+[37m      readingMore: false,[39m
+[37m      dataEmitted: false,[39m
+[37m      decoder: null,[39m
+[37m      encoding: null,[39m
+[37m      [Symbol(kPaused)]: false[39m
+[37m    },[39m
+[37m    _events: [Object: null prototype] {[39m
+[37m      end: [Array],[39m
+[37m      timeout: [Function: socketOnTimeout],[39m
+[37m      data: [Function: bound socketOnData],[39m
+[37m      error: [Array],[39m
+[37m      close: [Array],[39m
+[37m      drain: [Function: bound socketOnDrain],[39m
+[37m      resume: [Function: onSocketResume],[39m
+[37m      pause: [Function: onSocketPause][39m
+[37m    },[39m
+[37m    _eventsCount: 8,[39m
+[37m    _maxListeners: undefined,[39m
+[37m    _writableState: WritableState {[39m
+[37m      objectMode: false,[39m
+[37m      highWaterMark: 16384,[39m
+[37m      finalCalled: false,[39m
+[37m      needDrain: false,[39m
+[37m      ending: false,[39m
+[37m      ended: false,[39m
+[37m      finished: false,[39m
+[37m      destroyed: false,[39m
+[37m      decodeStrings: false,[39m
+[37m      defaultEncoding: 'utf8',[39m
+[37m      length: 0,[39m
+[37m      writing: false,[39m
+[37m      corked: 0,[39m
+[37m      sync: true,[39m
+[37m      bufferProcessing: false,[39m
+[37m      onwrite: [Function: bound onwrite],[39m
+[37m      writecb: null,[39m
+[37m      writelen: 0,[39m
+[37m      afterWriteTickInfo: null,[39m
+[37m      buffered: [],[39m
+[37m      bufferedIndex: 0,[39m
+[37m      allBuffers: true,[39m
+[37m      allNoop: true,[39m
+[37m      pendingcb: 0,[39m
+[37m      constructed: true,[39m
+[37m      prefinished: false,[39m
+[37m      errorEmitted: false,[39m
+[37m      emitClose: false,[39m
+[37m      autoDestroy: true,[39m
+[37m      errored: null,[39m
+[37m      closed: false,[39m
+[37m      closeEmitted: false,[39m
+[37m      [Symbol(kOnFinished)]: [][39m
+[37m    },[39m
+[37m    allowHalfOpen: true,[39m
+[37m    _sockname: null,[39m
+[37m    _pendingData: null,[39m
+[37m    _pendingEncoding: '',[39m
+[37m    server: Server {[39m
+[37m      maxHeaderSize: undefined,[39m
+[37m      insecureHTTPParser: undefined,[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      _connections: 2,[39m
+[37m      _handle: [TCP],[39m
+[37m      _usingWorkers: false,[39m
+[37m      _workers: [],[39m
+[37m      _unref: false,[39m
+[37m      allowHalfOpen: true,[39m
+[37m      pauseOnConnect: false,[39m
+[37m      noDelay: false,[39m
+[37m      keepAlive: false,[39m
+[37m      keepAliveInitialDelay: 0,[39m
+[37m      httpAllowHalfOpen: false,[39m
+[37m      timeout: 0,[39m
+[37m      keepAliveTimeout: 5000,[39m
+[37m      maxHeadersCount: null,[39m
+[37m      maxRequestsPerSocket: 0,[39m
+[37m      headersTimeout: 60000,[39m
+[37m      requestTimeout: 0,[39m
+[37m      _connectionKey: '6::::8000',[39m
+[37m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[37m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(async_id_symbol)]: 11,[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    _server: Server {[39m
+[37m      maxHeaderSize: undefined,[39m
+[37m      insecureHTTPParser: undefined,[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      _connections: 2,[39m
+[37m      _handle: [TCP],[39m
+[37m      _usingWorkers: false,[39m
+[37m      _workers: [],[39m
+[37m      _unref: false,[39m
+[37m      allowHalfOpen: true,[39m
+[37m      pauseOnConnect: false,[39m
+[37m      noDelay: false,[39m
+[37m      keepAlive: false,[39m
+[37m      keepAliveInitialDelay: 0,[39m
+[37m      httpAllowHalfOpen: false,[39m
+[37m      timeout: 0,[39m
+[37m      keepAliveTimeout: 5000,[39m
+[37m      maxHeadersCount: null,[39m
+[37m      maxRequestsPerSocket: 0,[39m
+[37m      headersTimeout: 60000,[39m
+[37m      requestTimeout: 0,[39m
+[37m      _connectionKey: '6::::8000',[39m
+[37m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[37m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(async_id_symbol)]: 11,[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    parser: HTTPParser {[39m
+[37m      '0': [Function: bound setRequestTimeout],[39m
+[37m      '1': [Function: parserOnHeaders],[39m
+[37m      '2': [Function: parserOnHeadersComplete],[39m
+[37m      '3': [Function: parserOnBody],[39m
+[37m      '4': [Function: parserOnMessageComplete],[39m
+[37m      '5': [Function: bound onParserExecute],[39m
+[37m      '6': [Function: bound onParserTimeout],[39m
+[37m      _headers: [],[39m
+[37m      _url: '',[39m
+[37m      socket: [Circular *1],[39m
+[37m      incoming: [Circular *2],[39m
+[37m      outgoing: null,[39m
+[37m      maxHeaderPairs: 2000,[39m
+[37m      _consumed: true,[39m
+[37m      onIncoming: [Function: bound parserOnIncoming],[39m
+[37m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[37m    },[39m
+[37m    on: [Function: socketListenerWrap],[39m
+[37m    addListener: [Function: socketListenerWrap],[39m
+[37m    prependListener: [Function: socketListenerWrap],[39m
+[37m    setEncoding: [Function: socketSetEncoding],[39m
+[37m    _paused: false,[39m
+[37m    _httpMessage: ServerResponse {[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      outputData: [],[39m
+[37m      outputSize: 0,[39m
+[37m      writable: true,[39m
+[37m      destroyed: false,[39m
+[37m      _last: false,[39m
+[37m      chunkedEncoding: false,[39m
+[37m      shouldKeepAlive: true,[39m
+[37m      maxRequestsOnConnectionReached: false,[39m
+[37m      _defaultKeepAlive: true,[39m
+[37m      useChunkedEncodingByDefault: true,[39m
+[37m      sendDate: true,[39m
+[37m      _removedConnection: false,[39m
+[37m      _removedContLen: false,[39m
+[37m      _removedTE: false,[39m
+[37m      _contentLength: null,[39m
+[37m      _hasBody: true,[39m
+[37m      _trailer: '',[39m
+[37m      finished: false,[39m
+[37m      _headerSent: false,[39m
+[37m      _closed: false,[39m
+[37m      socket: [Circular *1],[39m
+[37m      _header: null,[39m
+[37m      _keepAliveTimeout: 5000,[39m
+[37m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[37m      req: [Circular *2],[39m
+[37m      _sent100: false,[39m
+[37m      _expect_continue: false,[39m
+[37m      locals: [Object: null prototype] {},[39m
+[37m      _startAt: undefined,[39m
+[37m      _startTime: undefined,[39m
+[37m      writeHead: [Function: writeHead],[39m
+[37m      __onFinished: [Function],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(kNeedDrain)]: false,[39m
+[37m      [Symbol(corked)]: 0,[39m
+[37m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    _peername: { address: '::1', family: 'IPv6', port: 58996 },[39m
+[37m    [Symbol(async_id_symbol)]: 162,[39m
+[37m    [Symbol(kHandle)]: TCP {[39m
+[37m      reading: true,[39m
+[37m      onconnection: null,[39m
+[37m      _consumed: true,[39m
+[37m      [Symbol(owner_symbol)]: [Circular *1][39m
+[37m    },[39m
+[37m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[37m    [Symbol(timeout)]: null,[39m
+[37m    [Symbol(kBuffer)]: null,[39m
+[37m    [Symbol(kBufferCb)]: null,[39m
+[37m    [Symbol(kBufferGen)]: null,[39m
+[37m    [Symbol(kCapture)]: false,[39m
+[37m    [Symbol(kSetNoDelay)]: false,[39m
+[37m    [Symbol(kSetKeepAlive)]: false,[39m
+[37m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[37m    [Symbol(kBytesRead)]: 0,[39m
+[37m    [Symbol(kBytesWritten)]: 0,[39m
+[37m    [Symbol(RequestTimeout)]: undefined[39m
+[37m  },[39m
+[37m  httpVersionMajor: 1,[39m
+[37m  httpVersionMinor: 1,[39m
+[37m  httpVersion: '1.1',[39m
+[37m  complete: false,[39m
+[37m  rawHeaders: [[39m
+[37m    'Content-Type',[39m
+[37m    'application/json',[39m
+[37m    'User-Agent',[39m
+[37m    'PostmanRuntime/7.29.2',[39m
+[37m    'Accept',[39m
+[37m    '*/*',[39m
+[37m    'Postman-Token',[39m
+[37m    '44b7562f-b78d-463a-85b5-6dcaab800660',[39m
+[37m    'Host',[39m
+[37m    'localhost:8000',[39m
+[37m    'Accept-Encoding',[39m
+[37m    'gzip, deflate, br',[39m
+[37m    'Connection',[39m
+[37m    'keep-alive',[39m
+[37m    'Content-Length',[39m
+[37m    '48'[39m
+[37m  ],[39m
+[37m  rawTrailers: [],[39m
+[37m  aborted: false,[39m
+[37m  upgrade: false,[39m
+[37m  url: '/',[39m
+[37m  method: 'POST',[39m
+[37m  statusCode: null,[39m
+[37m  statusMessage: null,[39m
+[37m  client: <ref *1> Socket {[39m
+[37m    connecting: false,[39m
+[37m    _hadError: false,[39m
+[37m    _parent: null,[39m
+[37m    _host: null,[39m
+[37m    _readableState: ReadableState {[39m
+[37m      objectMode: false,[39m
+[37m      highWaterMark: 16384,[39m
+[37m      buffer: BufferList { head: null, tail: null, length: 0 },[39m
+[37m      length: 0,[39m
+[37m      pipes: [],[39m
+[37m      flowing: true,[39m
+[37m      ended: false,[39m
+[37m      endEmitted: false,[39m
+[37m      reading: true,[39m
+[37m      constructed: true,[39m
+[37m      sync: false,[39m
+[37m      needReadable: true,[39m
+[37m      emittedReadable: false,[39m
+[37m      readableListening: false,[39m
+[37m      resumeScheduled: false,[39m
+[37m      errorEmitted: false,[39m
+[37m      emitClose: false,[39m
+[37m      autoDestroy: true,[39m
+[37m      destroyed: false,[39m
+[37m      errored: null,[39m
+[37m      closed: false,[39m
+[37m      closeEmitted: false,[39m
+[37m      defaultEncoding: 'utf8',[39m
+[37m      awaitDrainWriters: null,[39m
+[37m      multiAwaitDrain: false,[39m
+[37m      readingMore: false,[39m
+[37m      dataEmitted: false,[39m
+[37m      decoder: null,[39m
+[37m      encoding: null,[39m
+[37m      [Symbol(kPaused)]: false[39m
+[37m    },[39m
+[37m    _events: [Object: null prototype] {[39m
+[37m      end: [Array],[39m
+[37m      timeout: [Function: socketOnTimeout],[39m
+[37m      data: [Function: bound socketOnData],[39m
+[37m      error: [Array],[39m
+[37m      close: [Array],[39m
+[37m      drain: [Function: bound socketOnDrain],[39m
+[37m      resume: [Function: onSocketResume],[39m
+[37m      pause: [Function: onSocketPause][39m
+[37m    },[39m
+[37m    _eventsCount: 8,[39m
+[37m    _maxListeners: undefined,[39m
+[37m    _writableState: WritableState {[39m
+[37m      objectMode: false,[39m
+[37m      highWaterMark: 16384,[39m
+[37m      finalCalled: false,[39m
+[37m      needDrain: false,[39m
+[37m      ending: false,[39m
+[37m      ended: false,[39m
+[37m      finished: false,[39m
+[37m      destroyed: false,[39m
+[37m      decodeStrings: false,[39m
+[37m      defaultEncoding: 'utf8',[39m
+[37m      length: 0,[39m
+[37m      writing: false,[39m
+[37m      corked: 0,[39m
+[37m      sync: true,[39m
+[37m      bufferProcessing: false,[39m
+[37m      onwrite: [Function: bound onwrite],[39m
+[37m      writecb: null,[39m
+[37m      writelen: 0,[39m
+[37m      afterWriteTickInfo: null,[39m
+[37m      buffered: [],[39m
+[37m      bufferedIndex: 0,[39m
+[37m      allBuffers: true,[39m
+[37m      allNoop: true,[39m
+[37m      pendingcb: 0,[39m
+[37m      constructed: true,[39m
+[37m      prefinished: false,[39m
+[37m      errorEmitted: false,[39m
+[37m      emitClose: false,[39m
+[37m      autoDestroy: true,[39m
+[37m      errored: null,[39m
+[37m      closed: false,[39m
+[37m      closeEmitted: false,[39m
+[37m      [Symbol(kOnFinished)]: [][39m
+[37m    },[39m
+[37m    allowHalfOpen: true,[39m
+[37m    _sockname: null,[39m
+[37m    _pendingData: null,[39m
+[37m    _pendingEncoding: '',[39m
+[37m    server: Server {[39m
+[37m      maxHeaderSize: undefined,[39m
+[37m      insecureHTTPParser: undefined,[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      _connections: 2,[39m
+[37m      _handle: [TCP],[39m
+[37m      _usingWorkers: false,[39m
+[37m      _workers: [],[39m
+[37m      _unref: false,[39m
+[37m      allowHalfOpen: true,[39m
+[37m      pauseOnConnect: false,[39m
+[37m      noDelay: false,[39m
+[37m      keepAlive: false,[39m
+[37m      keepAliveInitialDelay: 0,[39m
+[37m      httpAllowHalfOpen: false,[39m
+[37m      timeout: 0,[39m
+[37m      keepAliveTimeout: 5000,[39m
+[37m      maxHeadersCount: null,[39m
+[37m      maxRequestsPerSocket: 0,[39m
+[37m      headersTimeout: 60000,[39m
+[37m      requestTimeout: 0,[39m
+[37m      _connectionKey: '6::::8000',[39m
+[37m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[37m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(async_id_symbol)]: 11,[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    _server: Server {[39m
+[37m      maxHeaderSize: undefined,[39m
+[37m      insecureHTTPParser: undefined,[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      _connections: 2,[39m
+[37m      _handle: [TCP],[39m
+[37m      _usingWorkers: false,[39m
+[37m      _workers: [],[39m
+[37m      _unref: false,[39m
+[37m      allowHalfOpen: true,[39m
+[37m      pauseOnConnect: false,[39m
+[37m      noDelay: false,[39m
+[37m      keepAlive: false,[39m
+[37m      keepAliveInitialDelay: 0,[39m
+[37m      httpAllowHalfOpen: false,[39m
+[37m      timeout: 0,[39m
+[37m      keepAliveTimeout: 5000,[39m
+[37m      maxHeadersCount: null,[39m
+[37m      maxRequestsPerSocket: 0,[39m
+[37m      headersTimeout: 60000,[39m
+[37m      requestTimeout: 0,[39m
+[37m      _connectionKey: '6::::8000',[39m
+[37m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[37m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(async_id_symbol)]: 11,[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    parser: HTTPParser {[39m
+[37m      '0': [Function: bound setRequestTimeout],[39m
+[37m      '1': [Function: parserOnHeaders],[39m
+[37m      '2': [Function: parserOnHeadersComplete],[39m
+[37m      '3': [Function: parserOnBody],[39m
+[37m      '4': [Function: parserOnMessageComplete],[39m
+[37m      '5': [Function: bound onParserExecute],[39m
+[37m      '6': [Function: bound onParserTimeout],[39m
+[37m      _headers: [],[39m
+[37m      _url: '',[39m
+[37m      socket: [Circular *1],[39m
+[37m      incoming: [Circular *2],[39m
+[37m      outgoing: null,[39m
+[37m      maxHeaderPairs: 2000,[39m
+[37m      _consumed: true,[39m
+[37m      onIncoming: [Function: bound parserOnIncoming],[39m
+[37m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[37m    },[39m
+[37m    on: [Function: socketListenerWrap],[39m
+[37m    addListener: [Function: socketListenerWrap],[39m
+[37m    prependListener: [Function: socketListenerWrap],[39m
+[37m    setEncoding: [Function: socketSetEncoding],[39m
+[37m    _paused: false,[39m
+[37m    _httpMessage: ServerResponse {[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 2,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      outputData: [],[39m
+[37m      outputSize: 0,[39m
+[37m      writable: true,[39m
+[37m      destroyed: false,[39m
+[37m      _last: false,[39m
+[37m      chunkedEncoding: false,[39m
+[37m      shouldKeepAlive: true,[39m
+[37m      maxRequestsOnConnectionReached: false,[39m
+[37m      _defaultKeepAlive: true,[39m
+[37m      useChunkedEncodingByDefault: true,[39m
+[37m      sendDate: true,[39m
+[37m      _removedConnection: false,[39m
+[37m      _removedContLen: false,[39m
+[37m      _removedTE: false,[39m
+[37m      _contentLength: null,[39m
+[37m      _hasBody: true,[39m
+[37m      _trailer: '',[39m
+[37m      finished: false,[39m
+[37m      _headerSent: false,[39m
+[37m      _closed: false,[39m
+[37m      socket: [Circular *1],[39m
+[37m      _header: null,[39m
+[37m      _keepAliveTimeout: 5000,[39m
+[37m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[37m      req: [Circular *2],[39m
+[37m      _sent100: false,[39m
+[37m      _expect_continue: false,[39m
+[37m      locals: [Object: null prototype] {},[39m
+[37m      _startAt: undefined,[39m
+[37m      _startTime: undefined,[39m
+[37m      writeHead: [Function: writeHead],[39m
+[37m      __onFinished: [Function],[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(kNeedDrain)]: false,[39m
+[37m      [Symbol(corked)]: 0,[39m
+[37m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[37m      [Symbol(kUniqueHeaders)]: null[39m
+[37m    },[39m
+[37m    _peername: { address: '::1', family: 'IPv6', port: 58996 },[39m
+[37m    [Symbol(async_id_symbol)]: 162,[39m
+[37m    [Symbol(kHandle)]: TCP {[39m
+[37m      reading: true,[39m
+[37m      onconnection: null,[39m
+[37m      _consumed: true,[39m
+[37m      [Symbol(owner_symbol)]: [Circular *1][39m
+[37m    },[39m
+[37m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[37m    [Symbol(timeout)]: null,[39m
+[37m    [Symbol(kBuffer)]: null,[39m
+[37m    [Symbol(kBufferCb)]: null,[39m
+[37m    [Symbol(kBufferGen)]: null,[39m
+[37m    [Symbol(kCapture)]: false,[39m
+[37m    [Symbol(kSetNoDelay)]: false,[39m
+[37m    [Symbol(kSetKeepAlive)]: false,[39m
+[37m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[37m    [Symbol(kBytesRead)]: 0,[39m
+[37m    [Symbol(kBytesWritten)]: 0,[39m
+[37m    [Symbol(RequestTimeout)]: undefined[39m
+[37m  },[39m
+[37m  _consuming: false,[39m
+[37m  _dumped: false,[39m
+[37m  next: [Function: next],[39m
+[37m  baseUrl: '/main-board',[39m
+[37m  originalUrl: '/main-board/',[39m
+[37m  _parsedUrl: Url {[39m
+[37m    protocol: null,[39m
+[37m    slashes: null,[39m
+[37m    auth: null,[39m
+[37m    host: null,[39m
+[37m    port: null,[39m
+[37m    hostname: null,[39m
+[37m    hash: null,[39m
+[37m    search: null,[39m
+[37m    query: null,[39m
+[37m    pathname: '/',[39m
+[37m    path: '/',[39m
+[37m    href: '/',[39m
+[37m    _raw: '/'[39m
+[37m  },[39m
+[37m  params: {},[39m
+[37m  query: {},[39m
+[37m  res: <ref *3> ServerResponse {[39m
+[37m    _events: [Object: null prototype] {[39m
+[37m      finish: [Array],[39m
+[37m      end: [Function: onevent][39m
+[37m    },[39m
+[37m    _eventsCount: 2,[39m
+[37m    _maxListeners: undefined,[39m
+[37m    outputData: [],[39m
+[37m    outputSize: 0,[39m
+[37m    writable: true,[39m
+[37m    destroyed: false,[39m
+[37m    _last: false,[39m
+[37m    chunkedEncoding: false,[39m
+[37m    shouldKeepAlive: true,[39m
+[37m    maxRequestsOnConnectionReached: false,[39m
+[37m    _defaultKeepAlive: true,[39m
+[37m    useChunkedEncodingByDefault: true,[39m
+[37m    sendDate: true,[39m
+[37m    _removedConnection: false,[39m
+[37m    _removedContLen: false,[39m
+[37m    _removedTE: false,[39m
+[37m    _contentLength: null,[39m
+[37m    _hasBody: true,[39m
+[37m    _trailer: '',[39m
+[37m    finished: false,[39m
+[37m    _headerSent: false,[39m
+[37m    _closed: false,[39m
+[37m    socket: <ref *1> Socket {[39m
+[37m      connecting: false,[39m
+[37m      _hadError: false,[39m
+[37m      _parent: null,[39m
+[37m      _host: null,[39m
+[37m      _readableState: [ReadableState],[39m
+[37m      _events: [Object: null prototype],[39m
+[37m      _eventsCount: 8,[39m
+[37m      _maxListeners: undefined,[39m
+[37m      _writableState: [WritableState],[39m
+[37m      allowHalfOpen: true,[39m
+[37m      _sockname: null,[39m
+[37m      _pendingData: null,[39m
+[37m      _pendingEncoding: '',[39m
+[37m      server: [Server],[39m
+[37m      _server: [Server],[39m
+[37m      parser: [HTTPParser],[39m
+[37m      on: [Function: socketListenerWrap],[39m
+[37m      addListener: [Function: socketListenerWrap],[39m
+[37m      prependListener: [Function: socketListenerWrap],[39m
+[37m      setEncoding: [Function: socketSetEncoding],[39m
+[37m      _paused: false,[39m
+[37m      _httpMessage: [Circular *3],[39m
+[37m      _peername: [Object],[39m
+[37m      [Symbol(async_id_symbol)]: 162,[39m
+[37m      [Symbol(kHandle)]: [TCP],[39m
+[37m      [Symbol(lastWriteQueueSize)]: 0,[39m
+[37m      [Symbol(timeout)]: null,[39m
+[37m      [Symbol(kBuffer)]: null,[39m
+[37m      [Symbol(kBufferCb)]: null,[39m
+[37m      [Symbol(kBufferGen)]: null,[39m
+[37m      [Symbol(kCapture)]: false,[39m
+[37m      [Symbol(kSetNoDelay)]: false,[39m
+[37m      [Symbol(kSetKeepAlive)]: false,[39m
+[37m      [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[37m      [Symbol(kBytesRead)]: 0,[39m
+[37m      [Symbol(kBytesWritten)]: 0,[39m
+[37m      [Symbol(RequestTimeout)]: undefined[39m
+[37m    },[39m
+[37m    _header: null,[39m
+[37m    _keepAliveTimeout: 5000,[39m
+[37m    _onPendingData: [Function: bound updateOutgoingData],[39m
+[37m    req: [Circular *2],[39m
+[37m    _sent100: false,[39m
+[37m    _expect_continue: false,[39m
+[37m    locals: [Object: null prototype] {},[39m
+[37m    _startAt: undefined,[39m
+[37m    _startTime: undefined,[39m
+[37m    writeHead: [Function: writeHead],[39m
+[37m    __onFinished: [Function: listener] { queue: [Array] },[39m
+[37m    [Symbol(kCapture)]: false,[39m
+[37m    [Symbol(kNeedDrain)]: false,[39m
+[37m    [Symbol(corked)]: 0,[39m
+[37m    [Symbol(kOutHeaders)]: [Object: null prototype] { 'x-powered-by': [Array] },[39m
+[37m    [Symbol(kUniqueHeaders)]: null[39m
+[37m  },[39m
+[37m  _startAt: [ 1445308, 129725458 ],[39m
+[37m  _startTime: 2023-02-26T04:57:28.147Z,[39m
+[37m  _remoteAddress: '::1',[39m
+[37m  route: Route { path: '/', stack: [ [Layer] ], methods: { post: true } },[39m
+[37m  [Symbol(kCapture)]: false,[39m
+[37m  [Symbol(kHeaders)]: {[39m
+[37m    'content-type': 'application/json',[39m
+[37m    'user-agent': 'PostmanRuntime/7.29.2',[39m
+[37m    accept: '*/*',[39m
+[37m    'postman-token': '44b7562f-b78d-463a-85b5-6dcaab800660',[39m
+[37m    host: 'localhost:8000',[39m
+[37m    'accept-encoding': 'gzip, deflate, br',[39m
+[37m    connection: 'keep-alive',[39m
+[37m    'content-length': '48'[39m
+[37m  },[39m
+[37m  [Symbol(kHeadersCount)]: 16,[39m
+[37m  [Symbol(kTrailers)]: null,[39m
+[37m  [Symbol(kTrailersCount)]: 0,[39m
+[37m  [Symbol(RequestTimeout)]: undefined[39m
+[37m}[39m
+2023-02-26 11:57:28:5728 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:57:28:5728 [35mhttp[39m: [35mPOST /main-board/ 500 103 - 6.202 ms[39m
+[35m[39m
+2023-02-26 11:58:14:5814 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:58:17:5817 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:58:21:5821 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:58:24:5824 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:58:25:5825 [35mhttp[39m: [35mPOST /main-board/ 200 95 - 22.017 ms[39m
+[35m[39m
+2023-02-26 11:58:34:5834 [35mhttp[39m: [35mPOST /main-board/ 400 1132 - 6.409 ms[39m
+[35m[39m
+2023-02-26 11:59:36:5936 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 11:59:38:5938 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 11:59:40:5940 [35mhttp[39m: [35mPOST /main-board/ 200 95 - 3.612 ms[39m
+[35m[39m
+2023-02-26 12:00:05:05 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:00:08:08 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:00:24:024 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:00:27:027 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:01:12:112 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:01:15:115 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:02:10:210 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:02:10:210 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 13.048 ms[39m
+[35m[39m
+2023-02-26 12:03:24:324 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:03:26:326 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:03:32:332 [31merror[39m: [31mUnexpected token / in JSON at position 26[39m
+2023-02-26 12:04:14:414 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:04:17:417 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:04:22:422 [31merror[39m: [31mUnexpected token / in JSON at position 26[39m
+2023-02-26 12:04:29:429 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:04:29:429 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 11.411 ms[39m
+[35m[39m
+2023-02-26 12:04:37:437 [35mhttp[39m: [35mPOST /main-board/ 200 95 - 5.797 ms[39m
+[35m[39m
+2023-02-26 12:05:57:557 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:05:59:559 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:07:31:731 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:07:33:733 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:07:43:743 [31merror[39m: [31mUnexpected token / in JSON at position 6[39m
+2023-02-26 12:07:59:759 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:08:02:82 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:08:24:824 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:08:26:826 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:10:39:1039 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:10:41:1041 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:12:05:125 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 12:12:08:128 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 12:12:20:1220 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:12:20:1220 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 4.882 ms[39m
+[35m[39m
+2023-02-26 12:38:05:385 [35mhttp[39m: [35mGET / 200 27 - 2.834 ms[39m
+[35m[39m
+2023-02-26 12:40:30:4030 [35mhttp[39m: [35mGET / 200 27 - 1.189 ms[39m
+[35m[39m
+2023-02-26 12:40:30:4030 [35mhttp[39m: [35mGET /favicon.ico 404 150 - 6.826 ms[39m
+[35m[39m
+2023-02-26 12:51:28:5128 [31merror[39m: [31mboard validation failed: temp: temp is a required field[39m
+2023-02-26 12:51:28:5128 [35mhttp[39m: [35mPOST /main-board/ 500 62 - 6.865 ms[39m
+[35m[39m
+2023-02-26 12:53:22:5322 [35mhttp[39m: [35mPOST /main-board/ 200 109 - 10.786 ms[39m
+[35m[39m
+2023-02-26 12:55:14:5514 [35mhttp[39m: [35mGET /main-board/ 200 1761 - 282.731 ms[39m
+[35m[39m
+2023-02-26 13:01:23:123 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 13:01:26:126 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 13:04:57:457 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 11.510 ms[39m
+[35m[39m
+2023-02-26 13:27:30:2730 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 6.957 ms[39m
+[35m[39m
+2023-02-26 13:27:54:2754 [35mhttp[39m: [35mGET /main-board/ 200 2059 - 295.090 ms[39m
+[35m[39m
+2023-02-26 13:28:36:2836 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 3.728 ms[39m
+[35m[39m
+2023-02-26 13:28:48:2848 [35mhttp[39m: [35mGET /main-board/ 200 2208 - 272.248 ms[39m
+[35m[39m
+2023-02-26 13:29:42:2942 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 3.438 ms[39m
+[35m[39m
+2023-02-26 13:30:50:3050 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 4.733 ms[39m
+[35m[39m
+2023-02-26 13:31:55:3155 [35mhttp[39m: [35mPOST /main-board/ 200 91 - 3.377 ms[39m
+[35m[39m
+2023-02-26 14:07:17:717 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 14:07:20:720 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 14:07:23:723 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 14:07:25:725 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 14:22:42:2242 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:22:42:2242 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 13.720 ms[39m
+[35m[39m
+2023-02-26 14:36:07:367 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:36:07:367 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 7.224 ms[39m
+[35m[39m
+2023-02-26 14:37:31:3731 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:37:31:3731 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 4.602 ms[39m
+[35m[39m
+2023-02-26 14:47:09:479 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:47:09:479 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 9.903 ms[39m
+[35m[39m
+2023-02-26 14:49:09:499 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:49:09:499 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 6.863 ms[39m
+[35m[39m
+2023-02-26 14:52:01:521 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:52:01:521 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 3.904 ms[39m
+[35m[39m
+2023-02-26 14:54:57:5457 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:54:57:5457 [35mhttp[39m: [35mPOST /main-board/ 500 70 - 2.850 ms[39m
+[35m[39m
+2023-02-26 18:29:23:2923 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 18:29:25:2925 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 18:29:51:2951 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 18:29:53:2953 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 18:29:56:2956 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 18:29:59:2959 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 18:58:43:5843 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 18:59:13:5913 [37mdebug[39m: [37mCould not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2023-02-26 19:05:26:526 [37mdebug[39m: [37m⚡️[server]: Server is running at http://localhost:8000[39m
+2023-02-26 19:05:27:527 [37mdebug[39m: [37mMongoDb Connected[39m
+2023-02-26 19:15:51:1551 [35mhttp[39m: [35mGET /main-board/ 200 31 - 65.545 ms[39m
+[35m[39m
+2023-02-26 19:17:06:176 [35mhttp[39m: [35mGET /main-board/ 200 31 - 46.070 ms[39m
+[35m[39m
+2023-02-26 19:17:15:1715 [35mhttp[39m: [35mPOST /main-board/ 200 112 - 35.763 ms[39m
+[35m[39m
+2023-02-26 19:17:29:1729 [35mhttp[39m: [35mGET /main-board/ 200 200 - 40.989 ms[39m
+[35m[39m

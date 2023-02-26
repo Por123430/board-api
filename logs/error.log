@@ -1,0 +1,27 @@
+2023-02-26 11:10:28:1028 [31merror[39m: [31mParameter "obj" to Document() must be an object, got 2648[39m
+2023-02-26 11:12:07:127 [31merror[39m: [31mParameter "obj" to Document() must be an object, got 2648[39m
+2023-02-26 11:52:10:5210 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:04:534 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:37:5337 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:53:44:5344 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field, temp: temp is a required field[39m
+2023-02-26 11:54:22:5422 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:55:33:5533 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:55:42:5542 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:05:565 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:12:5612 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:56:51:5651 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 11:57:28:5728 [31merror[39m: [31mCannot destructure property 'temp' of 'req.body' as it is undefined.[39m
+2023-02-26 12:02:10:210 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:03:32:332 [31merror[39m: [31mUnexpected token / in JSON at position 26[39m
+2023-02-26 12:04:22:422 [31merror[39m: [31mUnexpected token / in JSON at position 26[39m
+2023-02-26 12:04:29:429 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:07:43:743 [31merror[39m: [31mUnexpected token / in JSON at position 6[39m
+2023-02-26 12:12:20:1220 [31merror[39m: [31mboard validation failed: moisture: moisture is a required field[39m
+2023-02-26 12:51:28:5128 [31merror[39m: [31mboard validation failed: temp: temp is a required field[39m
+2023-02-26 14:22:42:2242 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:36:07:367 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:37:31:3731 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:47:09:479 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:49:09:499 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:52:01:521 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
+2023-02-26 14:54:57:5457 [31merror[39m: [31mboard validation failed: lighting: lighting is a required field[39m
