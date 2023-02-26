@@ -5,8 +5,9 @@
   "license": "MIT",
   "scripts": {
     "build": "npx tsc",
-    "start": "node dist/index.js",
-    "dev": "nodemon app.ts"
+    "dev": "nodemon app.ts",
+    "start": "node app.ts",
+    "server": "ts-node ./app.ts"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
