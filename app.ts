@@ -19,7 +19,7 @@ app.use(morganMiddleware);
 app.use(ErrorMiddleware);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-const port = process.env.PORT;
+const port = 8080;
 
 app.use('/main-board', mainBoardRouter);
 app.get('/', (req: Request, res: Response, next: NextFunction) => {
